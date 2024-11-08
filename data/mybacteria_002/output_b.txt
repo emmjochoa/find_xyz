@@ -1,0 +1,5 @@
+var1, var2, var3, var4, var5
+001_data1,001_data2,001_data3,001_data4,001_data5,
+002_data1_XYZ,002_data2,002_data3,002_data4,002_data5,
+003_data1,003_data2,003_data3,003_data4_XYZ,003_data5,
+004_data1,004_data2,004_data3,004_data4,004_data5,
