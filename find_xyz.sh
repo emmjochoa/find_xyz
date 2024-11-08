@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# author: Emmanuel Ochoa
+# date: Nov. 7, 2024
+#
 
 my_xyz=$1
 
